@@ -1,0 +1,6 @@
+{
+  "name": "Qyrenza Labs — Intelligent Energy Intelligence",
+  "description": "Intelligent Energy Management for Smarter Buildings. Monitor electricity consumption, identify energy wastage, detect anomalies, and optimize costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
